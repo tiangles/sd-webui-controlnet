@@ -18,7 +18,7 @@ from scripts.processor import (
     preprocessor_filters,
     HWC3,
 )
-from scripts.logging import logger
+from scripts.cn_logging import logger
 from scripts.controlnet_ui.openpose_editor import OpenposeEditor
 from modules import shared
 from modules.ui_components import FormRow
